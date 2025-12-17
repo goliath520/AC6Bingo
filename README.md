@@ -6,7 +6,7 @@ Here is what you will need.
 
 How to play:
 1. Each player opens bingosync.
-2. One player will create a room and give others the information to join. Creator will need a board. use the pre-made board available here on github.
+2. One player will create a room and give others the information to join. Creator will need a board. use the pre-made board available here on github to get started.
 3. Players decide what colors to be to avoid confusion.
 4. Players can decide on the rules weather to playlockout (squares can only by claimed by one player) and if the board is revealed to plan or if you have to decide on the fly
 5. the first player to make a line by marking the board wins.
